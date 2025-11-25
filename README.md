@@ -45,6 +45,7 @@ Implementación de modelos de clasificación y clustering para segmentar a los u
   <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23FFA116.svg?"></a>
 </p>
 <br>
+
 ## Resultados y Conclusiones Principales 📊✔️
 
 El análisis identificó los factores que más influyen en la retención y la pérdida: 📉📈
