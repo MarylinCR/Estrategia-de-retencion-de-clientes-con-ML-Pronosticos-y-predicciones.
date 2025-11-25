@@ -1,5 +1,5 @@
 <h1 align="center">
-Estrategia de retencion de clientes con ML (Pron-sticos y predicciones)
+Estrategia de retención de clientes con ML (Pronósticos y predicciones)
 </h1>
 
 ## Objetivo 
