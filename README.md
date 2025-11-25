@@ -25,7 +25,9 @@ Implementación de modelos de clasificación y clustering para segmentar a los u
 | **Clustering** | Uso de **K-Means** (Clustering no supervisado) para segmentar a los clientes en grupos homogéneos. | Segmentación, Interpretación de Datos. |
 | **Generación de Recomendaciones** | Traducción de los hallazgos del modelo y los clústeres en **estrategias de retención** claras y dirigidas. | Pensamiento Crítico, Comunicación Técnica. |
 
+
 ## 🧰⚙️🛠️
+
 
 <p align="left"> 
   &emsp;
