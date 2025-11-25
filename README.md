@@ -24,11 +24,10 @@ Implementación de modelos de clasificación y clustering para segmentar a los u
 | **Modelado Predictivo** | Entrenamiento de modelos de **Clasificación Binaria** (LogisticRegression y RandomForestClassifier) para determinar qué clientes tienen alto riesgo de cancelación. | Machine Learning, Evaluación de Modelos. |
 | **Clustering** | Uso de **K-Means** (Clustering no supervisado) para segmentar a los clientes en grupos homogéneos. | Segmentación, Interpretación de Datos. |
 | **Generación de Recomendaciones** | Traducción de los hallazgos del modelo y los clústeres en **estrategias de retención** claras y dirigidas. | Pensamiento Crítico, Comunicación Técnica. |
-
+<br>
 
 ## 🧰⚙️🛠️
-
-
+<br>
 <p align="left"> 
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -45,7 +44,7 @@ Implementación de modelos de clasificación y clustering para segmentar a los u
   &emsp;
   <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23FFA116.svg?"></a>
 </p>
-
+<br>
 ## Resultados y Conclusiones Principales 📊✔️
 
 El análisis identificó los factores que más influyen en la retención y la pérdida: 📉📈
